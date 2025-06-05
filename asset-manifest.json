@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tagami0000.github.io/react-todo/static/css/main.b18e00fa.css",
+    "main.js": "/tagami0000.github.io/react-todo/static/js/main.926241ba.js",
+    "index.html": "/tagami0000.github.io/react-todo/index.html",
+    "main.b18e00fa.css.map": "/tagami0000.github.io/react-todo/static/css/main.b18e00fa.css.map",
+    "main.926241ba.js.map": "/tagami0000.github.io/react-todo/static/js/main.926241ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18e00fa.css",
+    "static/js/main.926241ba.js"
+  ]
+}
